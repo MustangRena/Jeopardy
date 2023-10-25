@@ -1,2 +1,2 @@
 # Jeopardy
-Project 2 for Codecademy DataScience Path
+Project 2 for Codecademy Data Science Path
